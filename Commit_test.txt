@@ -1,0 +1,1 @@
+test writing from command line
