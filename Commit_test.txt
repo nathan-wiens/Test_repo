@@ -4,4 +4,4 @@ adding new change to stage
 
 without add
 
-local change
+deletes previous commit and adds new line
