@@ -1,3 +1,5 @@
 test writing from command line
 
 adding new change to stage
+
+without add
